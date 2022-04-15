@@ -5,7 +5,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **c++, SQL, ensamblador**
 
-- 📫 Donde encontrarme **monicasnchezz@gmail.com**
+- 📫 Puedes encontrarme en **monicasnchezz@gmail.com**
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">

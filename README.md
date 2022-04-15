@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mónica Sánchez</h1>
-<h3 align="center">A Spanish computer science student</h3>
+<h1 align="center">Hola 👋, soy Mónica Sánchez</h1>
+<h3 align="center">Estudiante de Ingeniera Informática</h3>
 
 - 🔭 Últimamente estoy trabajando en [agenda digital](https://github.com/moniquescz/digital-planner.git)
 

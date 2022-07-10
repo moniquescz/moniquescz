@@ -1,6 +1,6 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-<h1 align="center">Hi 👋, I'm Mónica Sánchez</h1>
+<h1 align="center">Hi 👋, I'm Mónica</h1>
 <h3 align="center">Computer Science student</h3>
 
 - 🔭 I'm currently learning **HTML, CSS, bash**

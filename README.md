@@ -3,7 +3,7 @@
 
 - 🔭 Últimamente estoy trabajando en [agenda digital](https://github.com/moniquescz/digital-planner.git)
 
-- 🌱 Actualmente estoy aprendiendo **c++, SQL, ensamblador**
+- 🌱 Actualmente estoy aprendiendo **HTML, CSS, bash**
 
 - 📫 Puedes encontrarme en **monicasnchezz@gmail.com**
 

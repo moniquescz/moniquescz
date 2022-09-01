@@ -7,6 +7,8 @@
 
 - 📫 You can find me at **monicasnchezz@gmail.com**
 
+- 📌 For more information such as my CV visit **https://moniquescz.github.io/web/**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/monica-sanchez-bellido" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="monica-sanchez-bellido" height="30" width="40" /></a>

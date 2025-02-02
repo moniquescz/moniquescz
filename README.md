@@ -3,11 +3,7 @@
 <h1 align="center">Hi 👋, I'm Mónica</h1>
 <h3 align="center">Computer Science student</h3>
 
-- 🔭 I'm currently learning **HTML, CSS, bash**
-
 - 📫 You can find me at **monicasnchezz@gmail.com**
-
-- 📌 For more information such as my CV visit **https://moniquescz.github.io/web/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
